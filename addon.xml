@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ghstreworks"
+       name="GHSTreworks Repo"
+       version="1.0.0"
+       provider-name="Tvoje jméno"
+       addon_type="xbmc.addon.repository">
+    <extension point="xbmc.addon.repository"
+               name="GHSTreworks Repo"
+               datadir="https://ghstreworks.github.io/ghstreworks-repo/"
+               info="https://ghstreworks.github.io/ghstreworks-repo/addons.xml"
+               checksum="https://ghstreworks.github.io/ghstreworks-repo/addons.xml.md5"
+               datadir_zip="true" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Repozitář pro addon GHSTreworks</summary>
+        <description>Repozitář pro Kodi addon GHSTreworks.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
