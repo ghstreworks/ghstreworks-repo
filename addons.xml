@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-    <addon id="plugin.video.ghstreworks" version="1.0.0" name="GHSTreworks" provider-name="Tvoje jméno">
-        <extension point="xbmc.python.pluginsource" library="default.py" />
-    </addon>
-</addons>
